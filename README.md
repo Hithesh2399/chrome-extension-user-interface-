@@ -1,14 +1,14 @@
 # 	SPOTLIGHT
 
-![Preview](preview.gif)
+
 <br>
 <br>
 The most powerful interface for your browser 🔥
 
-With Omni you can use your browser like a pro. Manage tabs, bookmarks, your browser history, perform all sorts of actions and more with a simple command interface.
+With SPOTLIGHT you can use your browser like a pro. Manage tabs, bookmarks, your browser history, perform all sorts of actions and more with a simple command interface.
 
 
-<a href="https://www.producthunt.com/posts/omni-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-omni-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=326242&theme=light&period=daily" alt="SPOT LIGHT - The all-in-one tool to supercharge your productivity | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+<a href="https://www.producthunt.com/posts/SPOTLIGHT-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-SPOTLIGHT-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=326242&theme=light&period=daily" alt="SPOT LIGHT - The all-in-one tool to supercharge your productivity | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 
 Made by [HITHESH B]
@@ -17,11 +17,11 @@ Made by [HITHESH B]
 
 - [Features](#features)
 - [Controlling the interface](#controlling-the-interface)
-	- [Opening Omni](#opening-omni)
-	- [Closing Omni](#closing-omni)
+	- [Opening SPOTLIGHT](#opening-SPOTLIGHT)
+	- [Closing SPOTLIGHT](#closing-SPOTLIGHT)
 	- [Switching between dark and light mode](#switching-between-dark-and-light-mode)
 - [List of commands](#list-of-commands)
-- [Self-hosting Omni](#self-hosting-omni)
+- [Self-hosting SPOTLIGHT](#self-hosting-SPOTLIGHT)
 	- [Installing on Chrome](#installing-on-chrome)
 	- [Installing on Firefox](#installing-on-firefox) 
 - [Libraries used](#libraries-used)
@@ -38,13 +38,13 @@ To open SPOTLIGHT, simply press `⌘+Shift+K` on Mac or `Ctrl+Shift+K` on Window
 
 Alternatively you can click on the extension icon in the toolbar to toggle it.
 
-### Closing Omni
+### Closing SPOTLIGHT
 
 To close SPOTLIGHT  you can press `Esc`, click on the background, or press the extension icon.
 
 ### Switching between dark and light mode
 
-The dark and light theme in Omni is tied to your system's theme.
+The dark and light theme in SPOTLIGHT is tied to your system's theme.
 
 On Mac you can change the theme by clicking on the Apple menu (on the top left), opening the System preferences, going into the General section, and then choosing between dark, light, or auto.
 
@@ -54,7 +54,7 @@ After switching the theme you might need to restart your browser.
 
 ## List of commands
 
-You can use a variety of commands with Omni to perform actions or filter your results.
+You can use a variety of commands with SPOTLIGHT to perform actions or filter your results.
 
 - **/tabs**: Search your tabs
 - **/bookmarks**: Search your bookmarks
@@ -62,7 +62,7 @@ You can use a variety of commands with Omni to perform actions or filter your re
 - **/actions**: Search all available actions
 - **/remove**: Remove a bookmark or close a tab
 
-Feel free to suggest new commands for Omni by [making an issue](https://github.com/alyssaxuu/omni/issues/new).
+Feel free to suggest new commands for SPOTLIGHT by [making an issue](https://github.com/alyssaxuu/SPOTLIGHT/issues/new).
 
 
 ### Installing on Chrome
@@ -76,7 +76,7 @@ Feel free to suggest new commands for Omni by [making an issue](https://github.c
 
 1. Download the code. In the web version of GitHub, you can do that by clicking the green "Code" button, and then "Download ZIP".
 2. Open the about:debugging page in your browser, click the "This Firefox" option.
-3. Click the "Load Temporary Add-on" button, and select any file inside the [firefox folder](https://github.com/alyssaxuu/omni/tree/master/firefox)
+3. Click the "Load Temporary Add-on" button, and select any file inside the [firefox folder](https://github.com/alyssaxuu/SPOTLIGHT/tree/master/firefox)
 4. That's it, you will now be able to use SPOTLIGHT locally.
 
 ## Libraries used
