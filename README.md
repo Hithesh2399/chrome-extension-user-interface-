@@ -8,7 +8,7 @@ The most powerful interface for your browser 🔥
 With SPOTLIGHT you can use your browser like a pro. Manage tabs, bookmarks, your browser history, perform all sorts of actions and more with a simple command interface.
 
 
-<a href="https://www.producthunt.com/posts/SPOTLIGHT-3?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-SPOTLIGHT-3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=326242&theme=light&period=daily" alt="SPOT LIGHT - The all-in-one tool to supercharge your productivity | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 
 
 Made by [HITHESH B]
